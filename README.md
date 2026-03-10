@@ -12,7 +12,7 @@
  
  🔭  I am currently development on .Net and React frameworks
  
- 🌱 I’m currently learning .Net,React,Ts
+ 🌱 I’m currently learning .Net, React, Angular, Avalonia
 
 💬 Ask me about **.Net, React, Ts... or anything [here](https://github.com/Ahmetzkan/Ahmetzkan/issues)**
 
