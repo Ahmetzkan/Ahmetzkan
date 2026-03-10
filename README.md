@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning .Net, React, Angular, Avalonia
 
-💬 Ask me about **.Net, React, Ts... or anything [here](https://github.com/Ahmetzkan/Ahmetzkan/issues)**
+💬 Ask me about **.Net, React, Angular, Avalonia or anything [here](https://github.com/Ahmetzkan/Ahmetzkan/issues)**
 
  </div>
 
