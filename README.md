@@ -10,9 +10,8 @@
 
 <div align="center">
  
- 🔭  I am currently development on .Net and React frameworks
- 
- 🌱 I’m currently learning .Net, React, Angular, Avalonia
+ 🔭  I am currently development end to end solutions.
+
 
 💬 Ask me about **.Net, React, Angular, Avalonia or anything [here](https://github.com/Ahmetzkan/Ahmetzkan/issues)**
 
