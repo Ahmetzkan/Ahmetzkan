@@ -13,7 +13,7 @@
  🔭  I am currently development end to end solutions.
 
 
-💬 Ask me about **.Net, React, Angular, Avalonia or anything [here](https://github.com/Ahmetzkan/Ahmetzkan/issues)**
+💬 Ask me about anything [here](https://github.com/Ahmetzkan/Ahmetzkan/issues)**
 
  </div>
 
